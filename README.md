@@ -2,7 +2,6 @@
 
 A **Machine Learning** and **Deep Learning** based web application that helps in **crop recommendation**, **fertilizer suggestion**, and **plant disease detection** using AI-powered predictions.
 
-> 🔍 _Featured on [Krish Naik's YouTube Channel](https://www.youtube.com/watch?v=zJcSod-L-Ps)_
 
 ---
 
